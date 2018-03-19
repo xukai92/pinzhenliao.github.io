@@ -2,6 +2,20 @@
 layout: default
 ---
 
+
+# Education
+
+- 1
+<br>1.1
+- 2
+- 3
+
+# Links
+
+- Link 1:
+- Link 2:
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
