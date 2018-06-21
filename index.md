@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# About
+
+My name is Pinzhen!
 
 # Education
 
